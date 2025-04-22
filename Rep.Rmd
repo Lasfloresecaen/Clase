@@ -1,0 +1,7 @@
+---
+title: "Untitled"
+output: html_document
+date: "2025-04-22"
+---
+
+Comparar la tasa de ataque en diferentes grupos
