@@ -6,3 +6,5 @@ date: "2025-04-22"
 
 Comparar la tasa de ataque en diferentes grupos
 Para identificar grupos a priorizar en intervención
+
+Usar paquetes nuevos
