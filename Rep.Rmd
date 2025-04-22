@@ -8,3 +8,5 @@ Comparar la tasa de ataque en diferentes grupos
 Para identificar grupos a priorizar en intervención
 
 Usar paquetes nuevos
+
+Realizar graficos con (ggplot2)
